@@ -1,4 +1,4 @@
-# Hi, I'm Mayar Alahmad 👋 
+# Hi, I'm Mayar Alahmad 👋
 
 ### 🚀 Frontend Software Engineer | React & TypeScript Specialist
 I am a performance-driven Frontend Engineer with over 3 years of experience building scalable and accessible web applications. I specialize in **React 19**, **Next.js (App Router)**, and **TypeScript**, with a focus on clean code, **SOLID principles**, and measurable business impact.
@@ -8,7 +8,6 @@ I am a performance-driven Frontend Engineer with over 3 years of experience buil
 - 🌍 **Multilingual:** Native Arabic, Professional English, and German (A1.2).
 
 ---
-
 
 ### 🛠️ Technical Toolbox
 
@@ -26,6 +25,11 @@ I am a performance-driven Frontend Engineer with over 3 years of experience buil
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+---
+
+### 📊 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MayarAh28&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
